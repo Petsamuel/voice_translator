@@ -1,0 +1,9 @@
+lg/
+test.py
+lgCopy
+test2.py
+env/
+Lib
+Scripts
+pyvenv.cfg
+include
